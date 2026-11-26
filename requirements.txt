@@ -1,7 +1,8 @@
 pandas
 numpy
-openpyxl
 matplotlib
 seaborn
+openpyxl
 jupyter
+ipykernel
 sqlalchemy
